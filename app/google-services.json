@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "982276880667",
+    "firebase_url": "https://trixinn-7785b.firebaseio.com",
+    "project_id": "trixinn-7785b",
+    "storage_bucket": "trixinn-7785b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982276880667:android:99c9ebad96db9b08",
+        "android_client_info": {
+          "package_name": "com.example.arnoh.trixinn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982276880667-403ockqrbgm3490eenequg6r5370jpgt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arnoh.trixinn",
+            "certificate_hash": "cc1a83ba567faf438d4f0397069ffdd9145a9a4d"
+          }
+        },
+        {
+          "client_id": "982276880667-jf3jhd5hmjl2bp6darg6ub0oghoqr2et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPUNW1Fm4-08snDNyIWDYCeeeCh_033rA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982276880667-jf3jhd5hmjl2bp6darg6ub0oghoqr2et.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
